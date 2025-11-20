@@ -1,0 +1,12 @@
+#Formelsammlung 
+#Medieninformatik 
+
+---
+# Quellen
+
+# Definition
+----
+
+
+---
+

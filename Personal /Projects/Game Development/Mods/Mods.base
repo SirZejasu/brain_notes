@@ -1,0 +1,13 @@
+formulas:
+  Game: ""
+  Current Phase: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Spieleentwicklung/Game Development/Mods/MC Mods")
+    order:
+      - file.name
+      - formula.Game
+      - formula.Current Phase

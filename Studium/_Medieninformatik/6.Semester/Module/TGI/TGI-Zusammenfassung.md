@@ -1,0 +1,6 @@
+[[CPU-Aufbau und Geschichte]]
+[[Befehle in Assembler]]
+[[Adressierung]]
+[[Transistoren und Speicher]]
+[[Bussysteme Struktur von Rechner]]
+[[Schaltnetze und Schaltwerke]]

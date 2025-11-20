@@ -1,0 +1,21 @@
+formulas:
+  Erledigt?: VollständigTest.isTruthy()
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Studium/_Medieninformatik/6.Semester/Module/TGI/K05")
+        - and:
+            - file.hasTag("tgi")
+    order:
+      - file.name
+      - Deadline
+      - formula.Erledigt?
+    sort: []
+  - type: table
+    name: K05
+    filters:
+      and:
+        - file.inFolder("Studium/_Medieninformatik/6.Semester/Module/TGI/K05")
+        - file.hasTag("tgi")

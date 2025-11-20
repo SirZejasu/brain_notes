@@ -1,0 +1,6 @@
+#Reviews
+#Show
+
+---
+
+Ich liebe gute Serien. Sie sind für mich aufregender als es je ein Film werden könnte. Sie sind zeitintensiver und können Erzählungen und Geschichten dazu bringen, den Zuschauer in ihre Welt verzaubern zu lassen. Einer dieser Serien ist die Netflix Serie "Hilda". Es spielt in einer Welt ab wo Wunder als auch Schrecken mehr als nur Mythen sind. Magische Kreaturen, die aktiv das Leben der Menschen beeinflussen können und es normal angesehen wird. Naja, meistens zumindest. Die Geschichte hat eine wunderbare detailierte Erzählung über die Welt von Hilda und scheitert nicht daran, den wahren Kern der Geschichte zu verlieren. So kitschig und vielleicht kindisch das auch klingen mag, ich liebe Geschichten, die eine Lektion haben. Geschichten, die wie ein sehr langes Märchen klingen. Die Serie wird größtenteils aus der Perspektive von Hilda erzählt, die am Anfang mit ihrer Mutter in einer Landschaft lebt, wo keine andere Menschenseele lebt. Die Geschichte ist wie ein Hinweis darauf, unsere Welt genauer zu untersuchen, mehr zu erkunden, Empathie für die darin lebenden Wesen zu haben und diese erst versuchen zu verstehen bevor man irgendwelche Vourteile macht. Die Welt steckt voller Wunder aber auch Gefahren aber trotz dieser Gefahren verdient sie es, bemerkt und bewundert zu werden. 

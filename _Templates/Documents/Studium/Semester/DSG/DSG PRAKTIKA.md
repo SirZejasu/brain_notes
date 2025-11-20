@@ -1,0 +1,5 @@
+#Praktika 
+#DSG
+#Medieninformatik 
+
+---

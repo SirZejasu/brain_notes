@@ -1,0 +1,13 @@
+#checkliste/gmi/übungen
+- [ ] [[5. Übungsblatt 10 (KLAUSURRELEVANT)]] 
+- [ ] Stetigkeit überprüfen
+- [ ] Grenzwert ohne Probleme berechnen (Übungen aus den Arbeitsblättern)
+- [ ] Verketten und (Ent)ketten (Funktion)
+- [ ] Ableitung und Kettenregel
+- [ ] Produktregel (Funktion)
+- [ ] H-Methode
+- [ ] Vollständige Induktion
+- [ ] Logarithmus üben (Exponentialgleichung)
+- [ ] Definitionsbereiche bestimmen
+- [ ] Ableitungen
+- [ ] Potenzen

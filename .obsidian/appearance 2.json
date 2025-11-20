@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 17,
+  "theme": "system",
+  "cssTheme": "ITS Theme",
+  "accentColor": "#ffffff",
+  "nativeMenus": true,
+  "translucency": false,
+  "enabledCssSnippets": []
+}

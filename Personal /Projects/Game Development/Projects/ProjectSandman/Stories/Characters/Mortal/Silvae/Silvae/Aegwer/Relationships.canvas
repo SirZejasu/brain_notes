@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"1b243602233434ee","type":"file","file":"Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Mortal/Silvae/Silvae/Aegwer/Bruder von Elfenkönig.md","x":120,"y":-1920,"width":400,"height":400},
+		{"id":"eb610de4c9b5fc6a","type":"file","file":"Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Mortal/Silvae/Silvae/Aegwer/Elfenkönig.md","x":-503,"y":-1920,"width":400,"height":400},
+		{"id":"dd4794b89f21cb89","type":"file","file":"Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Mortal/Silvae/Silvae/Aegwer/Linda (Elfen)-Vater.md","x":-503,"y":-1000,"width":400,"height":440},
+		{"id":"e5978ab1dfbe1628","type":"file","file":"Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Mortal/Silvae/Silvae/Aegwer/Kind von Elfenkönig, Geschwisterkind von Linda Elfenvater.md","x":260,"y":-960,"width":400,"height":400},
+		{"id":"b08aea8010deabc6","type":"file","file":"Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Mortal/Silvae/Silvae/Aegwer/Lindas Dad (Forgot his name lol).md","x":260,"y":-400,"width":400,"height":400},
+		{"id":"192bfbdabf17760b","type":"file","file":"Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Mortal/Silvae/Silvae/Aegwer/Mech-Girl.md","x":260,"y":220,"width":400,"height":400},
+		{"id":"e0f5a4f493271636","type":"file","file":"Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Mortal/Silvae/Silvae/Aegwer/Linda.md","x":-503,"y":220,"width":400,"height":400},
+		{"id":"d62c4dc5fbf852b8","x":-428,"y":-140,"width":250,"height":60,"type":"text","text":"Adoptiv-Tochter"}
+	],
+	"edges":[
+		{"id":"2b24fa8f32e1a464","fromNode":"eb610de4c9b5fc6a","fromSide":"bottom","toNode":"dd4794b89f21cb89","toSide":"top","label":"Vater von"},
+		{"id":"1eeff8284db77714","fromNode":"1b243602233434ee","fromSide":"bottom","toNode":"dd4794b89f21cb89","toSide":"top","label":"Onkel von"},
+		{"id":"91612c23c614d3df","fromNode":"eb610de4c9b5fc6a","fromSide":"right","toNode":"1b243602233434ee","toSide":"left","fromEnd":"arrow","label":"Geschwister"},
+		{"id":"cc497383d6cb9c72","fromNode":"dd4794b89f21cb89","fromSide":"right","toNode":"e5978ab1dfbe1628","toSide":"left","fromEnd":"arrow","label":"Geschwister"},
+		{"id":"85759a05f896c843","fromNode":"dd4794b89f21cb89","fromSide":"bottom","toNode":"b08aea8010deabc6","toSide":"top","fromEnd":"arrow","label":"Liebhaber"},
+		{"id":"32ae92c2fa1a286d","fromNode":"e0f5a4f493271636","fromSide":"right","toNode":"192bfbdabf17760b","toSide":"left","toEnd":"none","label":"Freunde"},
+		{"id":"6f6e239eb84c8cdf","fromNode":"b08aea8010deabc6","fromSide":"left","toNode":"d62c4dc5fbf852b8","toSide":"top"},
+		{"id":"3d64607eade3fd5d","fromNode":"dd4794b89f21cb89","fromSide":"bottom","toNode":"d62c4dc5fbf852b8","toSide":"top"},
+		{"id":"6ccdef098c9d4bba","fromNode":"d62c4dc5fbf852b8","fromSide":"bottom","toNode":"e0f5a4f493271636","toSide":"top"}
+	]
+}

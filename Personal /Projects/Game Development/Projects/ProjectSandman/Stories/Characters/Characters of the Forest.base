@@ -1,0 +1,30 @@
+formulas:
+  Name: Name
+  World: world
+  Entität-Typ: entityType
+  Fraktion: |
+    fraction
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters")
+        - file.ext == "md"
+    order:
+      - file.name
+      - formula.World
+      - formula.Entität-Typ
+      - formula.Fraktion
+    sort:
+      - property: formula.World
+        direction: DESC
+      - property: formula.Fraktion
+        direction: ASC
+      - property: formula.Name
+        direction: DESC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 377
+      formula.World: 188

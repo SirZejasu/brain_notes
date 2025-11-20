@@ -1,0 +1,3 @@
+- Constantly new knowledge about the layers of reality
+- Side-Effect: Random Flashes of the future
+- Individuals with this curse suffer from social problems -> Outcasts

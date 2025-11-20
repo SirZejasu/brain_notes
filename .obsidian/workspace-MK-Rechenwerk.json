@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "96d94a982da49feb",
+    "type": "split",
+    "children": [
+      {
+        "id": "be8c7736db237e39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95b10b883eb6f7a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Medieninformatik/2.Semester/MMI/Integral/Integrale Substitution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "076191387acf50a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb8625d01e395356",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f48bca3577b40af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b04e94f718e92b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "939d08c7fc0885e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f37f9b0f5a6958db",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d0c8843fe4970eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbece7e8056b6337",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Medieninformatik/2.Semester/MMI/Integral/Integrale Substitution.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e4bb3645aabc0a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "95b10b883eb6f7a2",
+  "lastOpenFiles": []
+}

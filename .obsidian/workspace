@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "d4e79f139c5081f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ce5565c35ce951b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Practices/THEMA.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "625c49c11cb0687c",
+    "type": "split",
+    "children": [
+      {
+        "id": "326d0a4648a9f890",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3cc11202c06c0b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e56e34744c2588a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 466.5
+  },
+  "right": {
+    "id": "e7b9dc98bc73c279",
+    "type": "split",
+    "children": [
+      {
+        "id": "d33d927dfde68a19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b8c7ac864dc6153",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Practices/THEMA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "234ca5020d87d960",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8ce5565c35ce951b",
+  "lastOpenFiles": [
+    "Project Daydream/Characters/Die Empathen.md",
+    "Practices/THEMA.md",
+    "Z_OLD/Ausbildung/IHK Prüfung/Themen/Netzwerktechnik/Netzwerksicherheit und Netzwerkmanagement.md",
+    "Z_OLD/Ausbildung/IHK Prüfung/Themen/Netzwerktechnik/TCP-IP Modell Protokolle.md",
+    "Project Daydream/Abernelia/World of Abernelia.md",
+    "Project Daydream/Abernelia/The people of Luxivia.md",
+    "Project Daydream/Abernelia/Maria Ebonwood.md",
+    "Project Daydream/Abernelia/Luxivia (Abernelia Version).md",
+    "Project Daydream/Abernelia/Lindas Dad (Forgot his name lol).md",
+    "Project Daydream/Abernelia/Draer Ebowood.md"
+  ]
+}

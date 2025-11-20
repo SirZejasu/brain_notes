@@ -1,0 +1,9 @@
+- Witch sees his lover die in his arms.
+- Dialoge with the Goddess and the God.
+- The soul of his lover is already shattered, cannot be resurrected.
+- Witch, in his desperate attempt, tries to recollect the pieces of his soul and only gathers a few parts of his lover (Spell: Połącz duszę / merge Anima, an incantation to collect soul pieces at a point from the surrounding like a magnet)
+- Resurrects the body but does not bring him back. The body is filled with a little part of himself. With empty eyes he stares at his lover.
+- Witch has to accept the fate of his lover and draws the soul back out. Forms it into a crystal and wears it with him.
+- Begins to live in solitude with the crystallized soul. Becomes a warlock, making deals with corrupt forces.
+- The love for the good in humanity draws him back out and he sacrifices the last piece of his past lover to rescue another soul that he loves. The very few Humans that do good.
+- Becomes a true witch.

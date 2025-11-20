@@ -1,0 +1,1 @@
+Wann haben ich sie verloren? Wann habe ich aufgehört, mich so sehr über besuche von meinen Freunden zu freuen? Wann habe ich aufgehört, mich über jedes Geschenk zu freuen? Ich war Mal in eine Beziehung, dass hätte mich doch glücklich machen sollen.. oder nicht?

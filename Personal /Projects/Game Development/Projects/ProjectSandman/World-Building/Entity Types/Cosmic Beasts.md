@@ -1,0 +1,2 @@
+Sie sind aus den [[Wald der Träume]] entsprungen. Sie sind keine direkte Kreation der Mutter oder des Vaters und sind auch nicht dessen [[Gods|Gedanken oder Gefühle]].
+Sie sind Wesen purer Magie, die den Wald und die Träume hüten.

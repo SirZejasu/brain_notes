@@ -1,0 +1,25 @@
+formulas:
+  Untitled: projectType
+  Status: status
+  Untitled 2: nextDeadline
+  Untitled 3: ""
+properties:
+  formula.Untitled:
+    displayName: Project Type
+  formula.Untitled 2:
+    displayName: Next Deadline
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Personal /IT-Projects")
+        - file.ext != "base"
+    order:
+      - file.name
+      - formula.Untitled
+      - formula.Status
+      - formula.Untitled 2
+    sort:
+      - property: formula.Untitled
+        direction: ASC

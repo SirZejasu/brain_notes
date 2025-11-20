@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"b644854fb5d8141c","x":-86,"y":-180,"width":400,"height":65,"type":"file","file":"Personal /Projects/Game Development/Abandoned/Abernelia/Draer Ebowood.md"},
+		{"id":"a9d73a5f1c0cfea1","x":-440,"y":-115,"width":250,"height":60,"type":"text","text":"Connections"},
+		{"id":"b4e56f5b3a809694","x":-40,"y":-340,"width":250,"height":60,"type":"text","text":"Abilities"},
+		{"id":"dd8210102e2cfbba","x":480,"y":-180,"width":250,"height":60,"type":"text","text":"Goals"},
+		{"id":"6665f7910e36fa9e","x":-11,"y":60,"width":250,"height":60,"type":"text","text":"Past"},
+		{"id":"23e40fe98edfa24c","x":420,"y":-370,"width":250,"height":60,"type":"text","text":"Home"},
+		{"id":"596e791d609edc62","x":440,"y":-520,"width":400,"height":65,"type":"file","file":"Personal /Projects/Game Development/Abandoned/Abernelia/Mt.Aurora.md"}
+	],
+	"edges":[
+		{"id":"683884f6d793c2c6","fromNode":"b644854fb5d8141c","fromSide":"bottom","toNode":"6665f7910e36fa9e","toSide":"top"},
+		{"id":"606d60aed2cf2f55","fromNode":"b644854fb5d8141c","fromSide":"right","toNode":"dd8210102e2cfbba","toSide":"left"},
+		{"id":"3bff06e61ba0df13","fromNode":"b644854fb5d8141c","fromSide":"top","toNode":"b4e56f5b3a809694","toSide":"bottom"},
+		{"id":"d7d1546330551972","fromNode":"b644854fb5d8141c","fromSide":"left","toNode":"a9d73a5f1c0cfea1","toSide":"right"},
+		{"id":"834d54030b46b622","fromNode":"23e40fe98edfa24c","fromSide":"top","toNode":"596e791d609edc62","toSide":"bottom"},
+		{"id":"9e07a144c2cb1bbe","fromNode":"b644854fb5d8141c","fromSide":"top","toNode":"23e40fe98edfa24c","toSide":"bottom"}
+	]
+}

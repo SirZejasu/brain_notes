@@ -1,0 +1,5 @@
+-  Wiedergeburt der Göttin und des Gottes
+- Jedes Wicca Jahr sind es dieselben Seelen, andere Persönlichkeit
+- Erinnerungen aus früheren Leben werden in der höchsten Altersstufe gegeben
+- Persönlichkeit je nach Erfahrung im Jahr geformt
+- Götter leben im diesem Fall kürzer als Menschen

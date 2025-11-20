@@ -1,0 +1,7 @@
+#Übung 
+#LDS 
+#Medieninformatik  
+
+---
+# Aufgabenblatt Lösung
+[[_Medieninformatik/Vorherige Semester/1. Semester/LDS/Übung/Schmiertafel/Anhänge/LDS-ublatt1-hinweise-v101.pdf]]

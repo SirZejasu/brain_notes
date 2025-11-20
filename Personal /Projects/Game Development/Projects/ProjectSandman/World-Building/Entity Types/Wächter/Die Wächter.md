@@ -1,0 +1,1 @@
+Bewohner des Waldes und Hüter der Welten. Sie eine Unterkategorie von [[Cosmic Beasts]]

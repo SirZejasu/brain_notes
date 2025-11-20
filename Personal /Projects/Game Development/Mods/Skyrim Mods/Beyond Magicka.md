@@ -1,0 +1,5 @@
+# Idea
+- New Spells
+- Story
+- ???
+

@@ -1,0 +1,13 @@
+# Bestellung
+-  Basic Support
+- Keine Sicherheitssoftware
+- Zahlungsmethoden:
+	- Als Gast
+	- Geschäftlich
+	- Sein eigenen Namen schreiben
+	- Firmenenname: Studierendenschaft der Westfälischen Hochschule K.d.ö.R Gelsenkirchen
+	- ![[Pasted image 20230419134239.png]]
+- Installation
+	- Druckertreiber installation
+	- HKR: 
+- 

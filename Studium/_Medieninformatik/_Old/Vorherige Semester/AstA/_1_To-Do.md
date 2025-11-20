@@ -1,0 +1,8 @@
+- [x] Knowledge-Base einrichten
+- [ ] Neue PCs einrichten und ins AD einpflegen.
+- [ ] Installationsordner erstellen
+- [ ] Zentralisierung der Daten in die Cloud
+- [ ] Eintrag in Knowledge-Base: Installa
+- [ ] Scanner-Ordner Problem beheben
+- [x] Semesterticket - Semesterticket 365-Gruppe umändern
+- [ ] KeePassXC

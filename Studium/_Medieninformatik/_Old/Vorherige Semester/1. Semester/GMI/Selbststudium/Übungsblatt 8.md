@@ -1,0 +1,6 @@
+#Übung 
+#GMI 
+#Medieninformatik 
+
+---
+

@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Studium/_Medieninformatik/6.Semester/Module/TGI/K03")
+        - file.hasTag("tgi")

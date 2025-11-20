@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"42584a9117a91fd1","type":"file","file":"Spieleentwicklung/Game Development/ProjectSandman/Story/Yggdrasil/Fraktion/Welt der Empathen/Die Empathen.md","x":0,"y":0,"width":400,"height":400},
+		{"id":"4fa1b515110965c4","type":"file","file":"Spieleentwicklung/Game Development/ProjectSandman/Story/Yggdrasil/Characters/Welt der Empathen/Lucifer.md","x":0,"y":0,"width":400,"height":400},
+		{"id":"e323aea99c5245b9","type":"file","file":"Spieleentwicklung/Game Development/ProjectSandman/Story/Yggdrasil/Fraktion/Welt der Empathen/Die Empathen.md","x":0,"y":0,"width":400,"height":400,"color":"1"},
+		{"id":"aa181bcb359f113d","type":"file","file":"Spieleentwicklung/Game Development/ProjectSandman/Story/Yggdrasil/Characters/Welt der Empathen/Lucifer.md","x":1,"y":-562,"width":400,"height":400},
+		{"id":"f7cf91311bddde91","type":"text","text":"Lucifer and her children","x":201,"y":-100,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"3a3857522f9b0c54","fromNode":"e323aea99c5245b9","fromSide":"top","toNode":"aa181bcb359f113d","toSide":"bottom"}
+	]
+}

@@ -1,0 +1,1 @@
+Bottom-Up-Heapsort: Idee und Beispiel, MST-Algos: Prim, Kruskal (mit Union-Find), Boruvka; alle 4 Algos kommen mit hoher Chance in der Klausur vor).

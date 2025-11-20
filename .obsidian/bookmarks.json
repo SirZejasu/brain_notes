@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1760783434772,
+      "items": [
+        {
+          "type": "folder",
+          "ctime": 1760783478532,
+          "path": "Personal /Projects/Game Development/Projects/ProjectSandman/Gameplay",
+          "title": ""
+        }
+      ],
+      "title": "ProjectSandman"
+    },
+    {
+      "type": "group",
+      "ctime": 1760783440956,
+      "items": [],
+      "title": "PersonalProjects"
+    },
+    {
+      "type": "group",
+      "ctime": 1760783449248,
+      "items": [],
+      "title": "Studium"
+    }
+  ]
+}

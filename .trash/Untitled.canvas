@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"1f4265a9fd3f984b","x":-22,"y":-245,"width":400,"height":400,"type":"file","file":"_Medieninformatik/1. Semester/LDS/Themen/Aussagenlogik/Resolution.md"},
+		{"id":"57976bd9c7066080","x":-22,"y":-245,"width":400,"height":400,"type":"file","file":"_Medieninformatik/1. Semester/LDS/Themen/Aussagenlogik/Hornformeln.md"},
+		{"id":"dd5bc4d399205dff","x":-22,"y":-245,"width":400,"height":400,"type":"file","file":"_Medieninformatik/1. Semester/LDS/Themen/Aussagenlogik/Resolution.md"},
+		{"id":"fbff04edebc6e878","x":646,"y":-931,"width":783,"height":400,"type":"file","file":"_Medieninformatik/1. Semester/LDS/Themen/Aussagenlogik/Resolution.md"}
+	],
+	"edges":[
+		{"id":"ab6dd533d43c6a48","fromNode":"dd5bc4d399205dff","fromSide":"top","toNode":"fbff04edebc6e878","toSide":"bottom"}
+	]
+}

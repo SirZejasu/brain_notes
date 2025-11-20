@@ -1,0 +1,32 @@
+{
+  "todoPageName": "checkliste",
+  "showChecked": false,
+  "showAllTodos": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "tag",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "compact",
+  "_collapsedSections": [
+    "_Medieninformatik/Bewerbung.md",
+    "#checkliste/epr/aufgabe/",
+    "#checkliste/epr/aufgabe",
+    "#checkliste/dsg/praktika",
+    "#checkliste/epr/aufgabe/endrekursion",
+    "#checkliste/epr/aufgabe/klassenundobjekte",
+    "#checkliste/epr/aufgabe/imperativeprogrammierung",
+    "#checkliste/gmi/übungen",
+    "#checkliste/dsg/bonusaufgaben",
+    "#checkliste/epr/aufgabe/funktionaleprogrammierung",
+    "#checkliste/game/releases",
+    "#checkliste/epr/aufgabe/felder",
+    "#checkliste/lds/übungen",
+    "#checkliste/lds/fragen"
+  ],
+  "_hiddenTags": [
+    "checkliste/feedback"
+  ]
+}

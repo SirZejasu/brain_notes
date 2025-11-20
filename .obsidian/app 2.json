@@ -1,0 +1,12 @@
+{
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "alphabetical",
+  "promptDelete": false,
+  "attachmentFolderPath": "./Anhänge",
+  "spellcheck": true,
+  "trashOption": "local",
+  "spellcheckLanguages": null,
+  "defaultViewMode": "preview",
+  "showUnsupportedFiles": true,
+  "livePreview": false
+}

@@ -1,0 +1,5 @@
+- Angebote für DELL raussuchen
+- PC in unser AD einbinden
+- Drucker vom NAS bilden
+- Zentralisierung von Daten (Eine Cloud
+- Bestellungen and Christiane Rausch und Sandra Schmidt
