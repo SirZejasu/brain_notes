@@ -1,6 +1,7 @@
 {
   "enabledCssSnippets": [
-    "base"
+    "base",
+    "dashboard"
   ],
   "cssTheme": "",
   "theme": "obsidian"

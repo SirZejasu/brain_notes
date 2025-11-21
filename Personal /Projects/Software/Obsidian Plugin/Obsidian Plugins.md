@@ -1,5 +1,3 @@
-# Top Priority Project
-## Obsidian Plugins
 
 | Pluginname  | Description                                                               |
 | ----------- | ------------------------------------------------------------------------- |

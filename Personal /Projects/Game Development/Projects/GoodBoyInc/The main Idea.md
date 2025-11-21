@@ -3,6 +3,12 @@
 #Idea 
 
 ---
+# Planing
+- Map
+- Gameplay / Minigames
+
+
+
 # Handlung
 - Unmoralische Arbeitspraktiken
 

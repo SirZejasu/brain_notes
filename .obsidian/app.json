@@ -6,7 +6,7 @@
   "spellcheck": true,
   "trashOption": "local",
   "spellcheckLanguages": null,
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "showUnsupportedFiles": true,
   "livePreview": true,
   "uriCallbacks": true,
