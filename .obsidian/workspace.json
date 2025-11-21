@@ -39,160 +39,63 @@
             }
           },
           {
-            "id": "396cdd9099f5cfb4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal /Projects/Game Development/Projects/ProjectSandman/Project Sandman.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Project Sandman"
-            }
-          },
-          {
-            "id": "df80b0fa601ee785",
+            "id": "3edea32d5feef958",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal /Knowledgebase/Myths/Slavic/Der Schlangenprinz.md",
+                "file": "Personal /Projects/Game Development/Projects/GoodBoyInc/The main Idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Der Schlangenprinz"
+              "title": "The main Idea"
             }
           },
           {
-            "id": "de8d4b17feae5d2b",
+            "id": "80d4ad9e34caffc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Primal/Primäre-Dreifaltigkeit/Kind.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Kind"
-            }
-          },
-          {
-            "id": "3687f5eda5fafd43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal /Projects/Software/Obsidian Plugin/Obsidian Plugins.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian Plugins"
-            }
-          },
-          {
-            "id": "51ce9ddf83faa5cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studium/_Medieninformatik/Bachelor-Arbeit.md",
+                "file": "Personal /Projects/Game Development/Projects/GoodBoyInc/Obstacles&Tasks.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bachelor-Arbeit"
+              "title": "Obstacles&Tasks"
             }
           },
           {
-            "id": "99bbffe2d9fa4318",
+            "id": "124671ecfd8c5ef8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets/_Templates/Documents/common/CSS/Dashboard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "f4dd40999f523d51",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Characters of the Forest.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Characters of the Forest"
-            }
-          },
-          {
-            "id": "58dce14deb9bbfa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal /Projects/Game Development/Projects/ProjectSandman/Gameplay/Gameplay of Game.md",
+                "file": "Assets/General Wiki/ObsidianInfos/Common_Sheet.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gameplay of Game"
+              "title": "Common_Sheet"
             }
           },
           {
-            "id": "b7c012b711119111",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Personal /Projects/Game Development/Projects/ProjectSandman/Key Components of the World.canvas",
-                "viewState": {
-                  "x": -60,
-                  "y": -424,
-                  "zoom": -1.675419403830618
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Key Components of the World"
-            }
-          },
-          {
-            "id": "f4aa24a7a448a668",
+            "id": "8d310fc55d6446ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal /Projects/Game Development/Projects/GameDev Project.md",
+                "file": "Personal /Projects/Game Development/Projects/GoodBoyInc/GoodBoyInc.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GameDev Project"
+              "title": "GoodBoyInc"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -224,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Primal/Primäre-Dreifaltigkeit/\" ",
+                "query": "CSS",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -363,46 +266,47 @@
       "gnome-terminal-loader:main.py (Gnome Terminal)": false
     }
   },
-  "active": "6778315aeb832e6e",
+  "active": "8d310fc55d6446ea",
   "lastOpenFiles": [
-    "Personal /Projects/Game Development/Projects/GameDev Project.md",
     "Homepage.md",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Characters of the Forest.base",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/Project Sandman.md",
-    "Personal /Knowledgebase/Myths/Slavic/Der Schlangenprinz.md",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/Key Components of the World.canvas",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/Gameplay/Gameplay of Game.md",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/Gameplay/Gameplay.md",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/Gameplay/Building/Building.md",
     "Personal /Projects/Game Development/Projects/GoodBoyInc/The main Idea.md",
     "Personal /Projects/Game Development/Projects/GoodBoyInc/GoodBoyInc.md",
+    "Personal /Projects/Game Development/Projects/GoodBoyInc/Obstacles&Tasks.md",
+    "Assets/General Wiki/ObsidianInfos/Common_Sheet.md",
+    "Assets/General Wiki/Wiki.md",
+    "Assets/General Wiki/CSS/Understanding Flexboxes.md",
+    "Assets/General Wiki/CSS",
+    "Assets/General Wiki",
+    "Assets/_Templates/Documents/common/callout/Callout - note.md",
+    "Personal /Projects/Game Development/Projects/GoodBoyInc/Ass",
+    "Assets/_Templates/Documents/common/Dashboards/Game Project.md",
+    "Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Characters of the Forest.base",
+    "Assets/_Templates/Documents/common/callout/Callout - hint.md",
+    "Assets/_Templates/Documents/common/callout/Callout - info.md",
+    "Assets/General Wiki/ObsidianInfos/ObsidianInfos.md",
+    "Assets/General Wiki/ObsidianInfos/Personal_Improvements.md",
+    "Assets/_Templates/Documents/common/callout",
+    "Personal /Projects/Game Development/Projects/GameDev Project.md",
     "Assets/_Templates/Documents/common/CSS/Dashboard.md",
-    "Assets/_Templates/Documents/common/CSS",
-    "Assets/_Templates/Documents/common/CSS",
-    "Studium/_Medieninformatik/Bachelor-Arbeit.md",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Primal/Primäre-Dreifaltigkeit/Kind.md",
+    "Assets/_Templates/Documents/common/Dashboards",
+    "Personal /Projects/Game Development/Projects/ProjectSandman/Project Sandman.md",
+    "Personal /Projects/Game Development/Projects/Game Jams/Game Jams.md",
+    "Personal /Knowledgebase/Myths/Slavic/Der Schlangenprinz.md",
+    "Personal /Projects/Game Development/Projects/ProjectSandman/Gameplay/Gameplay of Game.md",
     "Personal /Projects/Software/Obsidian Plugin/Obsidian Plugins.md",
+    "Personal /Projects/Game Development/Knowledgebase/Game Analysis/Slay the Princess.md",
+    "Personal /Projects/Game Development/Knowledgebase/Game Analysis/Skyrim.md",
+    "Personal /Projects/Game Development/Knowledgebase/Game Analysis/Pokemon.md",
+    "Personal /Projects/Game Development/Knowledgebase/Game Analysis/Outer Wilds.md",
+    "Personal /Projects/Game Development/Knowledgebase/Game Analysis/Dragon Quest 10.md",
+    "Personal /Projects/Game Development/Knowledgebase/Game Analysis/Game Analysis.md",
+    "Personal /Projects/Game Development/Projects/ProjectSandman/Key Components of the World.canvas",
+    "Assets/_Templates/Documents/common/CSS",
+    "Assets/_Templates/Documents/common/CSS",
     "Assets/Banners/Nightsky_Stars.png",
     "Personal /Projects/Software/Obsidian Plugin/Anhang/Pasted image 20251121011555.png",
     "Personal /Projects/Software/Obsidian Plugin/Anhang",
-    "Assets/Banners/Nightsky_Stars.md",
     "Assets/Banners/Nightsky_Stars",
-    "Assets/Banners",
-    "Assets",
-    "Personal /Projects/Software/Obsidian Plugin",
-    "Untitled.md",
-    "Personal /Projects/Projects.md",
-    "Personal /Projects/Game Development/Projects/GoodBoyInc/Map.md",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Primal/Primäre-Dreifaltigkeit/Vater.md",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Primal/Primäre-Dreifaltigkeit/Mutter.md",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/Knowledge Base/Vault of Knowledge/About The Goddess, The God and The Child God.md",
-    "Personal /Projects/Game Development/Projects/GoodBoyInc",
-    "Personal /Projects/Game Development/Projects/Game Jams/Detta/Winter2025/Objects .md",
-    "Personal /Projects/Game Development/Projects/Game Jams/Detta/Winter2025",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Mortal/Welt der Empathen/Der Schmetterling.md",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Mortal/Welt der Empathen/Der Narr.md",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/⚠️ Baustellen ⚠️.md",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/World-Building/Fraction/Dream of modern society/Witch-Beasts.md",
     "Personal /Projects/Game Development/Knowledgebase/Unity/Useful Scripts/Anhang/Pasted image 20251024213744.png",
     "Personal /Projects/Game Development/Practice/Anhang/Pasted image 20251019195622.png",
     "Personal /Knowledgebase/Games/Theoretical/Books and Paper/Untitled.canvas",

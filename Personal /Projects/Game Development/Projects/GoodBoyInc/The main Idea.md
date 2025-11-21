@@ -6,9 +6,6 @@
 # Planing
 - Map
 - Gameplay / Minigames
-
-
-
 # Handlung
 - Unmoralische Arbeitspraktiken
 
@@ -21,9 +18,10 @@
 
 # Referenz aus echten Leben
 - Sexuelle Belästigung bei Blizzard
-- Unmorialische Arbeitsumstände bei Apple und Amazon
+- Unmoralische Arbeitsumstände bei Apple und Amazon
 
 # Game Mechanics
+- Point & Click and walk
 - Der Start ähnelt den von Lethal Company, Repo und Content Warning
 	  - Spieler muss jede Runde / Monat eine bestimmte Menge an Geld verdienen.
 	  - Verdient extra Geld, indem unethische Arbeitspraktiken ausgeführt werden
@@ -40,7 +38,7 @@
 ## Typischer Ablauf
 1. Tutorial
 	1. Regulärer Arbeitsablauf
-	2. Erste unethische Arbeitsaufgab
+	2. Erste unethische Arbeitsaufgabe
 	3. Wird ein Dokument verkauft / veröffentlicht?
 		1. Ja, Skandal wird veröffentlicht. Spieler muss am nächsten Tag vorsichtiger sein aber bekommt mehr Optionen.
 		2. Nein. Weniger Optionen aber ..?

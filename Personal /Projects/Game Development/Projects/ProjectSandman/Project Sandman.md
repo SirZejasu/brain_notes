@@ -5,7 +5,7 @@ banner: "![[Nightsky_Stars.png]]"
 ---
 
 # Gameplay
-- [[Gameplay of Game|About]]
+- [[Gameplay of Game|About the Gameplay]]
 - Besondere Artefakte
 - Characterbuild
 - Klassen, Fähigkeiten & das Kampfsystem
@@ -24,4 +24,5 @@ banner: "![[Nightsky_Stars.png]]"
 - [[Key Components of the World.canvas|Key Components of the World]]
 # Research
 -  Stories / Myths
+	- [[Der Schlangenprinz]]
 - Artstyles
