@@ -58,12 +58,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal /Projects/Game Development/Projects/GoodBoyInc/Obstacles&Tasks.md",
-                "mode": "preview",
+                "file": "Homepage.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obstacles&Tasks"
+              "title": "Homepage"
             }
           },
           {
@@ -72,12 +72,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets/General Wiki/ObsidianInfos/Common_Sheet.md",
+                "file": "Personal /Projects/Game Development/Projects/ProjectSandman/Project Sandman.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Common_Sheet"
+              "title": "Project Sandman"
             }
           },
           {
@@ -86,12 +86,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal /Projects/Game Development/Projects/GoodBoyInc/GoodBoyInc.md",
-                "mode": "preview",
+                "file": "Studium/_Medieninformatik/Bachelor-Arbeit.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GoodBoyInc"
+              "title": "Bachelor-Arbeit"
             }
           }
         ],
@@ -268,11 +268,19 @@
   },
   "active": "8d310fc55d6446ea",
   "lastOpenFiles": [
+    "Studium/_Medieninformatik/_DER PLAN.md",
+    "Studium/Anhänge/Fächerkombinationen2023.pdf",
+    "Studium/Studium.md",
+    "Personal /Projects/Game Development/Projects/ProjectSandman/World-Building/Dreams/Welt von Linda/Silvae.md",
+    "Personal /Projects/Game Development/Projects/ProjectSandman/World-Building/Dreams/Dreams.md",
     "Homepage.md",
-    "Personal /Projects/Game Development/Projects/GoodBoyInc/The main Idea.md",
-    "Personal /Projects/Game Development/Projects/GoodBoyInc/GoodBoyInc.md",
     "Personal /Projects/Game Development/Projects/GoodBoyInc/Obstacles&Tasks.md",
+    "Personal /Projects/Game Development/Projects/ProjectSandman/Project Sandman.md",
     "Assets/General Wiki/ObsidianInfos/Common_Sheet.md",
+    "Personal /Projects/Game Development/Projects/ProjectSandman/World-Building/Dreams/About Dreams.md",
+    "Personal /Projects/Game Development/Projects/GameDev Project.md",
+    "Personal /Projects/Game Development/Projects/GoodBoyInc/GoodBoyInc.md",
+    "Personal /Projects/Game Development/Projects/GoodBoyInc/The main Idea.md",
     "Assets/General Wiki/Wiki.md",
     "Assets/General Wiki/CSS/Understanding Flexboxes.md",
     "Assets/General Wiki/CSS",
@@ -286,27 +294,19 @@
     "Assets/General Wiki/ObsidianInfos/ObsidianInfos.md",
     "Assets/General Wiki/ObsidianInfos/Personal_Improvements.md",
     "Assets/_Templates/Documents/common/callout",
-    "Personal /Projects/Game Development/Projects/GameDev Project.md",
     "Assets/_Templates/Documents/common/CSS/Dashboard.md",
     "Assets/_Templates/Documents/common/Dashboards",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/Project Sandman.md",
     "Personal /Projects/Game Development/Projects/Game Jams/Game Jams.md",
     "Personal /Knowledgebase/Myths/Slavic/Der Schlangenprinz.md",
     "Personal /Projects/Game Development/Projects/ProjectSandman/Gameplay/Gameplay of Game.md",
     "Personal /Projects/Software/Obsidian Plugin/Obsidian Plugins.md",
     "Personal /Projects/Game Development/Knowledgebase/Game Analysis/Slay the Princess.md",
-    "Personal /Projects/Game Development/Knowledgebase/Game Analysis/Skyrim.md",
-    "Personal /Projects/Game Development/Knowledgebase/Game Analysis/Pokemon.md",
-    "Personal /Projects/Game Development/Knowledgebase/Game Analysis/Outer Wilds.md",
-    "Personal /Projects/Game Development/Knowledgebase/Game Analysis/Dragon Quest 10.md",
-    "Personal /Projects/Game Development/Knowledgebase/Game Analysis/Game Analysis.md",
     "Personal /Projects/Game Development/Projects/ProjectSandman/Key Components of the World.canvas",
     "Assets/_Templates/Documents/common/CSS",
     "Assets/_Templates/Documents/common/CSS",
     "Assets/Banners/Nightsky_Stars.png",
     "Personal /Projects/Software/Obsidian Plugin/Anhang/Pasted image 20251121011555.png",
     "Personal /Projects/Software/Obsidian Plugin/Anhang",
-    "Assets/Banners/Nightsky_Stars",
     "Personal /Projects/Game Development/Knowledgebase/Unity/Useful Scripts/Anhang/Pasted image 20251024213744.png",
     "Personal /Projects/Game Development/Practice/Anhang/Pasted image 20251019195622.png",
     "Personal /Knowledgebase/Games/Theoretical/Books and Paper/Untitled.canvas",

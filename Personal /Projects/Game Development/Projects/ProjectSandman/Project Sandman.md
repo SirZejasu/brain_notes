@@ -17,7 +17,7 @@ banner: "![[Nightsky_Stars.png]]"
 - Scenes
 
 # Worldbuilding
-- 🌠Dreams
+- 🌠[[About Dreams]]
 - Entity Types
 - Fraction
 - Places outside the Forest

@@ -1,16 +1,3 @@
----
-aliases:
-  - How are worlds made?
-  - How worlds are made
-  - The dreams
-  - The Dreams From Wishes
-  - World
-  - The Worlds
-  - Questions / Plotholes
-tags:
-  - wishingWorld
-  - dreamOfTheForest
----
 
 > [!NOTE] Die Entstehung einer Welt
 > Dreams are not worlds, so they have foreseeable borders. Dont't create worlds! Each Dream have a core, a meaning, a thought that is manifested in the Dream plane.     

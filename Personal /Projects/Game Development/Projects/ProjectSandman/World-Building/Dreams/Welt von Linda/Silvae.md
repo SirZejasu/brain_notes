@@ -19,12 +19,21 @@ aliases:
 # Weltbau
 ## Architektur
 Welches Zeitalter? Wie sehen die Gebäude oder die Welt allgemein aus?
+- Fantasy
+
+
+| Ort                    | Architektur |
+| ---------------------- | ----------- |
+| Stadt der Wilden Räder |             |
+| Die Küste              |             |
+|                        |             |
+
 ## Geographie
 ### ⚠️ Plotholes ⚠️
 
 | Fragen                                  | Mögliche Antwort 1                                                                                                                                                                                  | Mögliche Antwort 2                                                                                                                                                             | A3                                                                                                                                                                                                                                                                                                                    |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Was genau ist Silvae "geographisch"?    | Ein Kontinent mit verschiedenen Biomen                                                                                                                                                              | Eine Insel mit leich unterschiedlichen Biomen                                                                                                                                  |                                                                                                                                                                                                                                                                                                                       |
+| Was genau ist Silvae "geographisch"?    | Ein Kontinent mit verschiedenen Biomen                                                                                                                                                              | Eine Insel mit leicht unterschiedlichen Biomen                                                                                                                                 |                                                                                                                                                                                                                                                                                                                       |
 | Wie sind die Reiche aufgeteilt?<br><br> | 4 Himmelsrichtungen: Norden, Süden, Westen, Osten, in der Mitte der Große Wald mit dem Wächter.<br><br>Die Aufteilung ist aufgrund der geographischen Charakteristik zu verschulden.<br><br>![[A1]] | Die vier Reiche / Städte sind nahe bei einander statt verteilt auf Silvae. Das macht mehr Sinn, da es um Gemeinschaft geht und sie zusammen arbeiten und leben.<br><br>![[A2]] | A1 und A2 machen beide Sinn. Vielleicht ein Mix?<br><br>Berg: Die Zivilisation ist umgeben von einer Bergkette, wo die Bergmenschen leben.<br>Alle anderen leben im Tal.<br><br>Echsenmenschen an der Küste.<br>Fliegende Insel im Norden des Tals.<br>Menschen irgendwo in der Mitte / Süden.<br><br>![[A3]]<br><br> |
 
 ### Bekannte Geographische Orte
