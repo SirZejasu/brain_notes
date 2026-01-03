@@ -27,6 +27,7 @@
     "done?": "checkbox",
     "Vollständig": "checkbox",
     "test": "checkbox",
-    "excalidraw-embed-md": "checkbox"
+    "excalidraw-embed-md": "checkbox",
+    "genre": "multitext"
   }
 }

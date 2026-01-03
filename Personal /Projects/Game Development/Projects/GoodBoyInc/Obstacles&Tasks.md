@@ -3,8 +3,9 @@ tags: ""
 ---
 # The Obstacle
 Every Round / Month you have to reach a certain amount of money to pay your monthly costs
+# Tasks
 
-# Tasks / Minigames
+## Minigames / Levels
 ## Common Tasks
 >[!note] How are common Tasks defined?
 > You work for the company. These are normal tasks that you are suppose to do. You get money if you do your job good without raising any suspicion.
@@ -15,3 +16,4 @@ Every Round / Month you have to reach a certain amount of money to pay your mont
 >Get a little extra money by using other "Ressources" of the company to 
 ## Selling Documents
 ## Crypto-Mining
+

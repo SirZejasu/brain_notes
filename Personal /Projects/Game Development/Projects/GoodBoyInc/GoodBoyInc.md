@@ -1,6 +1,13 @@
 ---
 cssclasses:
   - dashboard
+genre:
+  - Click&Point
+  - 2D
+  - 3D
+  - 3rd Person
+  - Cats
+  - Dogs
 ---
 >[!note] The Main Idea
 > GooBoyInc ist über eine Mitarbeiter/in, der/die versucht über die Runden zu kommen und für eine Firma arbeitet, die nicht ganz koscher ist. Jeden Monat werden die Kosten erhöht und irgendwie muss der Spieler das Geld einbringen. Reichen die Aufgaben der Firma nicht ganz aus..?
@@ -12,11 +19,13 @@ cssclasses:
 		- Stress
 	
 - UI / Art
-	- [ ] Set UI with Player Attributes
-	- [ ] Make Items more Interactive
-		- [ ] Make Objects Glow when Hovered over
-		- [ ] Make Name appear when hovered over
+	- [[UI-TODO|TODO]]
+
 - Gameplay
+	- [[Gameplay-TODO|TODO]]
+
+- Bugs
+	- [[Bugs|TODO]]
 # Gameplay & Visuals
 - [[Obstacles&Tasks]]
 - [[The main Idea]]

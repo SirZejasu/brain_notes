@@ -1,0 +1,1 @@
+- Outline does not work for sprites

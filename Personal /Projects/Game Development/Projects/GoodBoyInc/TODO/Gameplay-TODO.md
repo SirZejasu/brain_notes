@@ -1,0 +1,41 @@
+- Demo
+	- [ ] Player wacht im Schlafzimmer auf
+		- [ ] Schlafzimmer interaktiv
+		- [ ] Hinweise über Kosten
+		- [ ] Exit point um zum Büro zu wechseln
+	- [ ] Zwischenscreen: Brief mit momentanen Kosten
+	- [ ] Bürogebäude
+		- [x] Player spawnt im eigenen Büro.
+		- [ ] Office Gebäude Explorativ
+			- [ ] Create more gameplay Interaction
+				- [ ] NPCs
+				- [ ] Inventory Items
+				- [ ] Minigames / Levels
+		- [x] Can talk to NPCs
+			- [ ] Zoom in with Camera
+		- [x] Interact with Objects: Server PC and Office PC
+		- [ ] Skandal veröffentlichen ( z.B. Gefälschte Tests der Produkte)
+	- [ ] Ende
+		- [ ] Zwischenscreen, Skandal veröffentlicht. Medien in Aufruhr.
+	- [ ]  Day 2...?
+		- [ ] Tag wiederholen. Diesmal müssen Items versteckt werden.
+
+# Challenges
+- **Liste an TODOS**
+	- Dokumente lesen
+	- Email beantworten
+- **Verdacht-Bar**
+	- Verdacht Bar kann sich erhöhen, was zu Debuffs und Zeitdruck führt.
+	- Die Verdacht-Bar erhöht sich, wenn ..
+		- man für längere Zeit keine normale Arbeit nachgeht
+		- Zu lange für eine gewöhnliche Arbeit braucht
+		- Sich in Räumen aufhält, in der man sich ohne Grund aufhalten sollte
+		- Verdacht Fall wird sofort Voll, wenn man in unauthorisierte Räume befindet und erwischt wird.
+		- Zu hohe Arbeitsstunden (Arbeitszeitbetrug?)
+	- Was passiert, wenn der Balken für eine gewisse Zeit voll wird?
+		- Meeting wird initiiert: Man muss sich erklären. Bekommt man eine Mahnung?
+			- Schuld auf andere schieben
+			- Die Unfähigkeit des Mangers aussprechen (Hierzu braucht man Beweise)
+		- Game Over
+- **Beim "illegalen" Arbeit nicht erwischt werden**
+- Mindestlohn erreichen, um Rechnungen abbezahlen zu können
