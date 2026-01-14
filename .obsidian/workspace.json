@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Personal /Projects/Game Development/Projects/GoodBoyInc/The main Idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "The main Idea"
             }
           },
           {
@@ -124,21 +124,21 @@
             }
           },
           {
-            "id": "49b5070f35d6f154",
+            "id": "cd680f369eb71cb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal /Projects/Game Development/Projects/GoodBoyInc/TODO/Gameplay-TODO.md",
+                "file": "Personal /Projects/Game Development/Projects/GoodBoyInc/The main Idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gameplay-TODO"
+              "title": "The main Idea"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -309,25 +309,23 @@
       "gnome-terminal-loader:main.py (Gnome Terminal)": false
     }
   },
-  "active": "49b5070f35d6f154",
+  "active": "dfa9f0f7075638c0",
   "lastOpenFiles": [
-    "Personal /Projects/Game Development/Projects/GoodBoyInc/GoodBoyInc.md",
-    "Personal /Projects/Game Development/Projects/GoodBoyInc/TODO/Gameplay-TODO.md",
-    "Personal /Projects/Game Development/Projects/GoodBoyInc/TODO/Bugs.md",
-    "Personal /Projects/Game Development/Projects/GoodBoyInc/Obstacles&Tasks.md",
     "Personal /Projects/Game Development/Projects/GoodBoyInc/The main Idea.md",
+    "Personal /Projects/Game Development/Projects/GoodBoyInc/TODO/Gameplay-TODO.md",
+    "Personal /Projects/Game Development/Projects/GoodBoyInc/GoodBoyInc.md",
+    "Personal /Projects/Game Development/Projects/GoodBoyInc/Obstacles&Tasks.md",
+    "Personal /Projects/Game Development/Projects/GoodBoyInc/TODO/Bugs.md",
+    "Personal /Projects/Game Development/Projects/GameDev Project.md",
+    "Homepage.md",
+    "Personal /Projects/Game Development/Mods/MC Mods/Aura, Nocturnal.md",
     "Personal /Projects/Game Development/Projects/GoodBoyInc/TODO/UI-TODO.md",
     "Personal /Projects/Game Development/Projects/GoodBoyInc/Map.md",
-    "Homepage.md",
     "Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Characters of the Forest.base",
-    "Personal /Projects/Game Development/Projects/GameDev Project.md",
     "Personal /Projects/Game Development/Projects/GoodBoyInc/TODO/Untitled",
     "Personal /Projects/Game Development/Projects/GoodBoyInc/TODO",
     "Assets/General Wiki/ObsidianInfos/Common_Sheet.md",
     "Personal /Projects/Game Development/Projects/ProjectSandman/World-Building/Dreams/About Dreams.md",
-    "Personal /Projects/Game Development/Projects/GameDev Project.md",
-    "Personal /Projects/Game Development/Projects/GoodBoyInc/GoodBoyInc.md",
-    "Personal /Projects/Game Development/Projects/GoodBoyInc/The main Idea.md",
     "Assets/General Wiki/Wiki.md",
     "Assets/General Wiki/CSS/Understanding Flexboxes.md",
     "Assets/General Wiki/CSS",
@@ -344,10 +342,6 @@
     "Assets/_Templates/Documents/common/Dashboards",
     "Personal /Projects/Game Development/Projects/Game Jams/Game Jams.md",
     "Personal /Knowledgebase/Myths/Slavic/Der Schlangenprinz.md",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/Gameplay/Gameplay of Game.md",
-    "Personal /Projects/Software/Obsidian Plugin/Obsidian Plugins.md",
-    "Personal /Projects/Game Development/Knowledgebase/Game Analysis/Slay the Princess.md",
-    "Personal /Projects/Game Development/Knowledgebase/Game Analysis/Skyrim.md",
     "Personal /Projects/Game Development/Projects/ProjectSandman/Key Components of the World.canvas",
     "Assets/_Templates/Documents/common/CSS",
     "Assets/_Templates/Documents/common/CSS",

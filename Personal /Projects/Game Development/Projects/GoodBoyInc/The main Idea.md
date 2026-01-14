@@ -35,6 +35,14 @@
 3. Arbeitstag läuft.
 4. Nächsten Morgen kommt ein Skandal, wenn Dokumente veröffentlicht werden.
 
+## Protagonist
+- Arbeiter ohne Berufsbezeichnung, "Mädchen für alles" Bürotechnische
+	- Arbeitet in einer IT-Firma (Firma hat eigenen Serverraum)
+	- Repräsentiert einen 0815 Büro Jobber
+	- Bürokaufmann, Fremdsprachenkorrespodenz (As your second native language that you barely speak)
+	- Als jemand, der nur leidenschaftslos Geld verdienen will um über die Runden zu kommen, hast du alles gerade noch so gelernt was du musst und bei den Bewerbungen etwas gemogelt (Fremdsprache angegeben, die du nicht beherrschst)
+
+
 ## Typischer Ablauf
 1. Tutorial
 	1. Regulärer Arbeitsablauf

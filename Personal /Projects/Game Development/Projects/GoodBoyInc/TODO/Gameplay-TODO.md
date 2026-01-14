@@ -1,3 +1,10 @@
+# Implement Tasks
+- [ ] Answering Foreign Mails from Clients
+	- [ ] Even a Translator cant decipher everything
+	- [ ] You have to fill in the blanks (Puzzle Game)
+		- Similarities to IQ Tests
+
+
 - Demo
 	- [ ] Player wacht im Schlafzimmer auf
 		- [ ] Schlafzimmer interaktiv
@@ -39,3 +46,41 @@
 		- Game Over
 - **Beim "illegalen" Arbeit nicht erwischt werden**
 - Mindestlohn erreichen, um Rechnungen abbezahlen zu können
+
+# Games / Tasks
+- Tasks in Office
+	- **Telephone**
+		- Needs coffee to stay concentrated?
+		- Answering Clients
+			- Beschwerden bearbeiten und weitergeben
+			- Beratung und Support
+		-  Answering Co-Workers
+			- Beschwerden bearbeiten und weitergeben
+		-  Calling Clients
+			- Spam / Advertisment
+			- Sell the company product
+		- Calling Co-Workers
+			- Asking them to do a job for you
+				- Success based on relationship and other things
+	- **Computer**	
+		- *Mails*
+			- Answering Mails
+				- Translate cryptic mails for co-workers from the native country (Incognitoland, Baleyvisi ) most part of you family is coming from but you barely visited.
+					- You did say you speak this language fluently
+					- Bunch of cryptic symbols you have to translate (Use some font here)
+				- Accepting "Mini-Jobs" from co-workers
+			- Sending Mails
+		- Browser
+			- Search Tool..?
+	- **Printer**
+		- Print important Documetns
+			- Maze Game
+		- Aufgaben um Schmiergeld zu bekommen
+- Tasks Outside of Office
+	- Talking to NPCs
+		- 
+	- Unauhorized Spaces
+		- Serverroom
+			- Gaining access to Terminal
+			- Print "Scandals"
+		- Boss Office
