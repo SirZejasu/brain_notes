@@ -59,12 +59,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal /Projects/Game Development/Projects/GoodBoyInc/TODO/Gameplay-TODO.md",
+                "file": "Personal /Projects/Game Development/Projects/Eye of Raziel/Brain Storming - Gameplay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gameplay-TODO"
+              "title": "Brain Storming - Gameplay"
+            }
+          },
+          {
+            "id": "fec4e60b0f845ad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal /Projects/Game Development/Projects/Eye of Raziel/TO-DO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TO-DO"
             }
           },
           {
@@ -129,16 +143,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal /Projects/Game Development/Projects/GoodBoyInc/The main Idea.md",
+                "file": "Personal /Projects/Game Development/Projects/Eye of Raziel/Story/3. End Game/The End.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The main Idea"
+              "title": "The End"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -309,42 +323,49 @@
       "gnome-terminal-loader:main.py (Gnome Terminal)": false
     }
   },
-  "active": "dfa9f0f7075638c0",
+  "active": "cd680f369eb71cb7",
   "lastOpenFiles": [
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Gameplay/lu24791728xx3ga.tmp",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Gameplay/lu24791728xx22w.tmp",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/TO-DO.md",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Gameplay/lu24791728xx0pm.tmp",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Gameplay/lu24791728xwzpb.tmp",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Gameplay/Element Attribute.ods",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Gameplay/lu24791728xwvbq.tmp",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Story/3. End Game/The End.md",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Story/3. End Game/Fortschritt-spezifische Zwischen Events.md",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Brain Storming - Gameplay.md",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Gameplay/About.md",
     "Personal /Projects/Game Development/Projects/GoodBoyInc/The main Idea.md",
-    "Personal /Projects/Game Development/Projects/GoodBoyInc/TODO/Gameplay-TODO.md",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Story/2. Mid Game/Spell - Reveal what is hidden.md",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Story/2. Mid Game/Scene - Der Akedemische Leiter kommt zu Besuch - Midgame.md",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Story/1. Early Game/Start im Turm.md",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Story/1. Early Game/Das Auge von Azriel erwacht.md",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Items/Starmap.md",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Items/Eye of Azriel.md",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/The Laws.md",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Eye of Raziel.md",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Celestial Bodies.md",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Gameplay",
+    "Fitness Goal/Fitness Goal.ods",
+    "Fitness Goal/lu22637737ogobv.tmp",
+    "Fitness Goal",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Anhang/Pasted image 20260120132859.png",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Anhang/Pasted image 20260120130546.png",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Anhang/Pasted image 20260120130441.png",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Anhang/Pasted image 20260120125917.png",
+    "Personal /Projects/Game Development/Projects/Eye of Raziel/Anhang",
     "Personal /Projects/Game Development/Projects/GoodBoyInc/GoodBoyInc.md",
+    "Personal /Projects/Game Development/Projects/Game Jams/Game Jams.md",
+    "Personal /Projects/Game Development/Projects/Game Jams/Detta/Winter2025/Objects .md",
+    "Personal /Projects/Game Development/Projects/GoodBoyInc/TODO/Gameplay-TODO.md",
     "Personal /Projects/Game Development/Projects/GoodBoyInc/Obstacles&Tasks.md",
     "Personal /Projects/Game Development/Projects/GoodBoyInc/TODO/Bugs.md",
     "Personal /Projects/Game Development/Projects/GameDev Project.md",
     "Homepage.md",
     "Personal /Projects/Game Development/Mods/MC Mods/Aura, Nocturnal.md",
     "Personal /Projects/Game Development/Projects/GoodBoyInc/TODO/UI-TODO.md",
-    "Personal /Projects/Game Development/Projects/GoodBoyInc/Map.md",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Characters of the Forest.base",
-    "Personal /Projects/Game Development/Projects/GoodBoyInc/TODO/Untitled",
-    "Personal /Projects/Game Development/Projects/GoodBoyInc/TODO",
-    "Assets/General Wiki/ObsidianInfos/Common_Sheet.md",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/World-Building/Dreams/About Dreams.md",
-    "Assets/General Wiki/Wiki.md",
-    "Assets/General Wiki/CSS/Understanding Flexboxes.md",
-    "Assets/General Wiki/CSS",
-    "Assets/General Wiki",
-    "Assets/_Templates/Documents/common/callout/Callout - note.md",
-    "Personal /Projects/Game Development/Projects/GoodBoyInc/Ass",
-    "Assets/_Templates/Documents/common/Dashboards/Game Project.md",
-    "Assets/_Templates/Documents/common/callout/Callout - hint.md",
-    "Assets/_Templates/Documents/common/callout/Callout - info.md",
-    "Assets/General Wiki/ObsidianInfos/ObsidianInfos.md",
-    "Assets/General Wiki/ObsidianInfos/Personal_Improvements.md",
-    "Assets/_Templates/Documents/common/callout",
-    "Assets/_Templates/Documents/common/CSS/Dashboard.md",
-    "Assets/_Templates/Documents/common/Dashboards",
-    "Personal /Projects/Game Development/Projects/Game Jams/Game Jams.md",
-    "Personal /Knowledgebase/Myths/Slavic/Der Schlangenprinz.md",
     "Personal /Projects/Game Development/Projects/ProjectSandman/Key Components of the World.canvas",
-    "Assets/_Templates/Documents/common/CSS",
-    "Assets/_Templates/Documents/common/CSS",
     "Assets/Banners/Nightsky_Stars.png",
     "Personal /Projects/Software/Obsidian Plugin/Anhang/Pasted image 20251121011555.png",
     "Personal /Projects/Game Development/Knowledgebase/Unity/Useful Scripts/Anhang/Pasted image 20251024213744.png",
@@ -355,10 +376,6 @@
     "Personal /Projects/Game Development/Abandoned/Abernelia/Abernelia.canvas",
     "Personal /Projects/Game Development/Projects/ProjectSandman/Gameplay/Besondere Artefakte/Book of Beasts/Anhänge/Screenshot 2021-12-12 154918.png",
     "Personal /Projects/Game Development/Projects/ProjectSandman/Gameplay/Besondere Artefakte/Book of Beasts/Lektion, Das Potenzial/Anhang/Pasted image 20251018114540.png",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Mortal/World of Modern Society/Anhang/Pasted image 20251016195919.png",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Mortal/World of Modern Society/Anhang/Pasted image 20251016195851.png",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Mortal/World of Modern Society/Anhang/Pasted image 20251016195732.png",
-    "Personal /Projects/Game Development/Projects/ProjectSandman/Stories/Characters/Mortal/World of Modern Society/Anhang/Pasted image 20251016195427.png",
     "Untitled.canvas",
     "Spieleentwicklung/Game Development/ProjectSandman/Story/Fraktion/Welt der Empathen/Untitled.canvas",
     "Spieleentwicklung/Game Development/ProjectSandman/Story/Yggdrasil/Fraktion/Welt der Empathen/Untitled.canvas",
