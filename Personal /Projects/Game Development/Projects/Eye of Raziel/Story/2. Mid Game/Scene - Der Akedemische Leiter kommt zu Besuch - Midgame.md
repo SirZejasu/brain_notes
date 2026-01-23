@@ -1,0 +1,1 @@
+- Der Leiter betrachtet die neue Inneneinrichtung des Turms

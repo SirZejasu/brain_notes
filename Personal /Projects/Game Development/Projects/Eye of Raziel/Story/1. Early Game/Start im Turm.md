@@ -1,0 +1,2 @@
+- Als Astrophysiker untersuchst du ein altes Artefakt, dass vor kurzem aus einer Grabstätte ausgegraben worden ist.
+- Es wurde dir übergeben, weil vermutet wird, dass es aus dem All stammt. Dein jetziges Studium wird sich von nun an nur um dieses Artefakt drehen.

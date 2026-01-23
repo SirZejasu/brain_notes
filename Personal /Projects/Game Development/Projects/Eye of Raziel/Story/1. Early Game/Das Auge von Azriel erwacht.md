@@ -1,0 +1,4 @@
+- Nachdem du erkannt hast, wozu dieses Artefakt fähig ist, denkst du an Legenden nach.
+- Legenden über Zauberer, Magier und Hexen. 
+- Du denkst nach. Magie hat nie existiert. Magie ist ein menschen gemachtes Konzept um Dinge zu erklären, die sie nicht erklären konnten. Es definiert Mysterium, nicht gelöste Geheimnisse. Es kann nicht wahrhaftig existieren in einem deterministischen Universum wo alles einen Ursprung, einen Prozess und ein Ende hat. Magie ist ein paradox. Und doch... bist du nicht sicher, was du vor dir hast.
+- Es gibt keine Magie. Du machst es dir zur Aufgabe, herauszufinden, warum das Artefakt zu den Dingen fähig ist, die es machen kann. Mit den von dem momentan Stand der Wissenschaft gegebenen Methoden. Wenn es sein muss schreibst du Prinzipien der Natur um, damit das alles anfängt Sinn zu machen.
