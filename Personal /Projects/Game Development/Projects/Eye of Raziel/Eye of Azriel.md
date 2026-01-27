@@ -13,17 +13,8 @@ genre:
 > As the first magician ever you create the first spells that define the future of wizard kind. Summon Spells into existence by writing them into the starry sky, which will work as an anchor for these spells to become reality. With the help of a mysterious artefact, called "The Eye Of Raziel", you rewrite reality itself. How fun and exciting!  What could possibly go wrong?
 
 # Checklist
-- UI / Art
-	- [ ] Turm weiter ausbauen
-	- [ ] Weltraum erweitern
-	- [ ] Nach den ersten Zaubern erscheinen Augem um den Turm
-	- [ ] Notizbuch
-		- [ ] Enthält bereits zu Anfang Informationen über "Natursymbole" und Assoziationen mit Elementen und Himmelskörper
-		- [ ] Füllt sich während der Progression im Spiel
-	- [ ] Hauptmenü (?)
-	- [ ] Zoomeffect beim Turm
-
-- Gameplay
+-  Gameplay
+	-  [[TO-DO]]
 	- [[Brain Storming - Gameplay]]
 	- [ ] Notizbuch mit Hinweisen
 	- [ ] Im Weltraum horizontal und vertikal scrollen
@@ -35,10 +26,11 @@ genre:
 		- [ ] Wasser + Erde = Leben
 		- [ ] Feuer + Wasser = Nebel
 		- [ ] Feuer + Luft = Magische Macht
-	- [ ] 
 
 - Bugs
 	- CB1 wird manchmal ohne Grund zu Nil
+ 
+
 # Gameplay
 - Zeichnen von Konstallationen
 # Worldbuilding

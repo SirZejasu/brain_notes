@@ -1,0 +1,31 @@
+# Konzeptioneller Teil
+- Das eigene Interessengebiet klarmachen.
+- Den eigenen Beitrag (zur Wissenschaft/Gesellschaft) klar machen.
+- Definieren der Problemstellung(en)
+- Auswirkung des Problems (oder mehrere)
+- Rechereche
+	- Welche Recherchenmethoden anwenden?
+		- Vom Brocke -> Strategie zum Vorgehen
+			- Ist replizierbar und einfach nachzuvollziehen -> Bewertbar!
+	- Welchen Literaturprogramm verwenden für Quellen?
+- Mögliche Lösungen zum Problem
+	- Erkennen von Falschinformationen (Methodik)
+# Prototypischen Teil
+- Basierend auf eigene Recherche
+- Was ist die Motivation zur Prototypentwicklung?
+- Was ist die Angehensweise zur Prototypentwicklung
+	- Inspiration zu Realbeispielen.
+		- Ground News
+		- Community Notes
+		- etc.
+	- Inspiration aus dem eigenen konzeptionellen Teil.
+- Was ist der Fokus? (Problem und Lösung) 
+	- Was für ein Prototyp soll entwickelt werden (UI/UX, Programm etc.)
+- Was ist das Ziel des Prorotyps?
+	- Welche Probleme soll es lösen?
+	- Wie soll dieses Probleme (oder mehrere) gelöst werden?
+		- Ggf. auf jedes Problem eingehen und eine Lösung geben.
+		- Im besten Fall eine Lösung entwickeln, die mehrere Lösungen eliminiert/reduziert.
+- Tools
+	- Framworks für Protoyping
+		- Figma -> UI/UX
