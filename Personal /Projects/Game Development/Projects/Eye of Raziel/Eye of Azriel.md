@@ -16,19 +16,10 @@ genre:
 -  Gameplay
 	-  [[TO-DO]]
 	- [[Brain Storming - Gameplay]]
-	- [ ] Notizbuch mit Hinweisen
-	- [ ] Im Weltraum horizontal und vertikal scrollen
-	- [ ] Zauber erstellen und kombinieren
-		- [ ] Wenn man Zauber kombiniert bzw. hintereinander anwendet, lassen sich Gegenstände/Zutaten erstellen.
-		- [ ] Feuer + Wasser + Erde + Luft = Stein der Weisen
-			- [ ] Stein der Weisen ist eine Zutat für weitere Alchemierezepte
-	- [ ] Konstellationen kombinieren, um neue Zauber zu bekommen.
-		- [ ] Wasser + Erde = Leben
-		- [ ] Feuer + Wasser = Nebel
-		- [ ] Feuer + Luft = Magische Macht
+	
 
-- Bugs
-	- CB1 wird manchmal ohne Grund zu Nil
+- [[Personal /Projects/Game Development/Projects/Eye of Raziel/Misc/Known Bugs/Bugs|Bugs]] 
+
  
 
 # Gameplay

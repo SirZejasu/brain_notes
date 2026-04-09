@@ -1,3 +1,15 @@
+# Misc
+- [ ] Notizbuch mit Hinweisen
+	- [ ] Im Weltraum horizontal und vertikal scrollen
+	- [ ] Zauber erstellen und kombinieren
+		- [ ] Wenn man Zauber kombiniert bzw. hintereinander anwendet, lassen sich Gegenstände/Zutaten erstellen.
+		- [ ] Feuer + Wasser + Erde + Luft = Stein der Weisen
+			- [ ] Stein der Weisen ist eine Zutat für weitere Alchemierezepte
+	- [ ] Konstellationen kombinieren, um neue Zauber zu bekommen.
+		- [ ] Wasser + Erde = Leben
+		- [ ] Feuer + Wasser = Nebel
+		- [ ] Feuer + Luft = Magische Macht
+
 # Game-Mechancics
 - [ ] Randomly generated Nightsky
 	- [x] Variable: List of [[Celestial Bodies]] 
