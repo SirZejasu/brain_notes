@@ -1,0 +1,34 @@
+- Die wesentlichen Fragen für das Bachelorthema
+	- Was sind Falschinformationen? Definieren von Falschinformation
+	- Was sind die Ursachen von Falschinformationen?
+	- Was ist das Problem von Falschinformation? 
+		- Psychologische Belastung
+		- Was sind die Konsequenzen, wenn Falschinformationen verbreitet werden.
+	- Welche Methoden gibt es zur Identifizierung von Falschinformationen?
+		- Algorithmisch / System / Bot -> Emotionale Erkennung
+		- Sensibilisierung des Users durch Bildung oder UI/UX/Interface-Design
+	-  Wie beugt man (die Verbreitung von) Falschinformationen vor?
+		- User dazu bringen Dinge kritisch zu hinterfragen
+		- Alogrithmisch / Technisch / Bot
+	- Welche Realbeispiele gibt es bereits?
+		- Ground News -> Welche API? Wie ist das UI/UX-Design?
+		- Report Function
+		- Community Notes
+	- Wie ist der Stand der Technologie und Wissenschaft?
+	- Eigene Kritik (Fazit)?
+- Sonstiges zu Recherchieren
+	- EU-AI Act
+- Wenn ich etwas Implementieren (Prototypen) muss: Für das Designen von Interfaces werden welche Elemente beachtet?
+	- UI/UX? -> Können Sie dies bewerten?
+	- Algorithmus?
+	- Kommentar/Like-Systeme
+	- Framework zum Prototyping
+- Welche Erscheinungsform wäre am geeignetsten?
+	- Konzeptionell: Stand der Wissenschaft zusammensetzen und kritisch hinterfragen
+		- Recherchenmethode bestimmen
+			- Vom Brocke -> Strategie zum Vorgehen
+			- Literaturprogramme -> Organisieren von Quellen
+	- Methodisch/Modellierend: Eigene Implementationen (Praxis)
+		- Prototypentwicklunmg
+			- Was war die Motivation?
+			- Was war die Angehensweise?

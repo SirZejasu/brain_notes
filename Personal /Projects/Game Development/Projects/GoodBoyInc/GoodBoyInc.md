@@ -25,7 +25,7 @@ genre:
 	- [[Gameplay-TODO|TODO]]
 
 - Bugs
-	- [[Bugs|TODO]]
+	- [[Personal /Projects/Game Development/Projects/GoodBoyInc/TODO/Bugs|TODO]]
 # Gameplay & Visuals
 - [[Obstacles&Tasks]]
 - [[The main Idea]]

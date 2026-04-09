@@ -9,12 +9,10 @@ aliases:
   - The Muse
   - muse
 ---
-
-
 # Steckbrief 
 
 ## About
-Represents the problem me and some others with ADHD / ADS have irl. 
+Represents the problem me and some others with ADHD / ADS or neurodiverse people have irl. Her different personalities try to adapt to society but keep "break out". 
 She was stuck between hobbies and Interests. She was barely good at anything but "tasted" everything.
 After the outbreak she had some form of ability that helped her "multiply" her personality and help her focus on specific creative hobbies like Music, Writing, Drawing, Invention by connecting them.
 Creativity comes in many forms and she represents one of these forms.

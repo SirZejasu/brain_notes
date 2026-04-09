@@ -4,6 +4,7 @@ cssclasses:
 ---
 # Projects
 - Games
+	- [[Personal /Projects/Game Development/Projects/Eye of Raziel/Eye of Azriel]]
 	- [[Project Sandman]]
 	-  [[GoodBoyInc]]
 	- [[Ideas]]
