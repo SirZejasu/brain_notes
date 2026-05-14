@@ -1,0 +1,3 @@
+Mitten im Meer liegt die Insel. Auf ihnen sind vier Städte erbaut: Die Stadt der Wilden Räder, Die fliegende Stadt, die Stadt in den Bergen und die Küstenstadt [[1]].
+
+Die Städte sind Zufluchtsorte gewesen von dem großen Krieg der Nationen. Aufgrund der geographischen Gegebenheiten der Insel, konnten die Wesen hier in Frieden Leben und einen Neu-Anfang wagen. Diese Nationen leben nun zusammen. Konflikte gibt es dennoch, doch konnten sie bis jetzt durch Handel und Diplomatie Kriege vermeiden.
