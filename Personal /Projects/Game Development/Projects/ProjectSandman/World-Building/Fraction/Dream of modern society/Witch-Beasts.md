@@ -3,6 +3,7 @@ tags:
   - Dream_Guilds
 Dream: "[[Dream of modern Society|Dream of modern Society]]"
 aliases:
+  - Hexenseuche
 ---
 > [!hint] Side Note
     > Die Namen der Witch-Beast Charaktere basieren auf Namen aus Märchen
